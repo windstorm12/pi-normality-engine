@@ -1,0 +1,5 @@
+numpy
+scipy
+rich
+groq
+mpmath
